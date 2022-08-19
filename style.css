@@ -77,6 +77,7 @@ body.active #section6 {
  #section6 {
     /* height: 700px; */
     height: 100vh;
+     width: 100vw;
     transition: .61s;
 }
 
