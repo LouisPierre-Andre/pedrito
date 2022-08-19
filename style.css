@@ -79,6 +79,7 @@ body.active #section6 {
     height: 100vh;
      width: 100vw;
     transition: .61s;
+     overflow: hidden;
 }
 
 /* //////////////////////////////////////////////////////////////////// */
